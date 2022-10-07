@@ -13,3 +13,4 @@
 1. b - goed!
 2. a -Fout L bozo
 3. o - common W
+4. i - 

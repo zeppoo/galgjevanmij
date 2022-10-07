@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|b|o|.|.|
+|e|b|o|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -14,4 +14,4 @@
 2. a -Fout L bozo
 3. o - common W
 4. i - fout ratio + you're white
-5. e - 
+5. e - EEEEEEEYYYYY

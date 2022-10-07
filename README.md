@@ -14,4 +14,4 @@
 2. a -Fout L bozo
 3. o - common W
 4. i - fout ratio + you're white
-5. 
+5. e - 

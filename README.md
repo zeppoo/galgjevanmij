@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|b|.|.|.|
+|.|b|o|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -12,4 +12,4 @@
 ## Beurten
 1. b - goed!
 2. a -Fout L bozo
-3. o 
+3. o - common W

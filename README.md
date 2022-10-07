@@ -15,3 +15,4 @@
 3. o - common W
 4. i - fout ratio + you're white
 5. e - EEEEEEEYYYYY
+6. n - 

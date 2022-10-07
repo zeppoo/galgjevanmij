@@ -10,5 +10,5 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-1. a - goed!
-2. 
+1. b - goed!
+2. a
